@@ -1,4 +1,4 @@
-# AdventOfCode2024
+# Advent Of Code 2024
 
 in this project i'll make everyday the advent of code two time for each problem, in java and php (to renforce each my skill in this programming language)
 goals:
